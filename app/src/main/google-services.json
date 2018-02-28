@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "203430083593",
+    "firebase_url": "https://insights2-qa.firebaseio.com",
+    "project_id": "insights2-qa",
+    "storage_bucket": "insights2-qa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203430083593:android:cfa93794f8f2dc58",
+        "android_client_info": {
+          "package_name": "com.volvotrucks.contentsharing.qa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203430083593-13n0uamf3je4tsv95foemd0q9lti3jdr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyXW2m8GO-jV1mUvpBAQt7IvJmD_ZPvak"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
